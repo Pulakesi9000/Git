@@ -1,1 +1,2 @@
 This is Git training.
+Changing the content of line.
