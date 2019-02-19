@@ -2,3 +2,5 @@ This is Git training.
 Changing the content of file.
 second change.
 Third change.
+
+adding one more line.
